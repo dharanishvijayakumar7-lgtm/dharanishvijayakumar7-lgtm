@@ -1,4 +1,4 @@
-## Hi there 👋
+## Code. Learn. Build. Repeat. 🚀
 
 <!--
 **dharanishvijayakumar7-lgtm/dharanishvijayakumar7-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
