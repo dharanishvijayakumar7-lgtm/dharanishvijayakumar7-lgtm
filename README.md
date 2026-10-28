@@ -147,23 +147,6 @@ flowchart LR
 
 <br/>
 
-<!-- ═══════════════ STATS ═══════════════ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dharanishvijayakumar7-lgtm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharanishvijayakumar7-lgtm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=dharanishvijayakumar7-lgtm&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharanishvijayakumar7-lgtm&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dharanishvijayakumar7-lgtm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════ NOW ═══════════════ -->
 ## 🌱 Right Now
