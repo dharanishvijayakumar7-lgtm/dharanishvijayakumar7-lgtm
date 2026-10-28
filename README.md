@@ -86,68 +86,6 @@ flowchart LR
 
 <br/>
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/dharanishvijayakumar7-lgtm/cropPilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharanishvijayakumar7-lgtm&repo=cropPilot&theme=tokyonight&hide_border=true&border_radius=12" alt="cropPilot"/>
-</a>
-
-**🌾 CropPilot** — a multilingual, voice-enabled farming assistant for Indian farmers: hyperlocal weather-risk maps, a 5-day farming forecast, and a disaster-scheme navigator in 6 languages.
-<br/>`Flask` `SQLite` `Leaflet.js` `OpenWeather` `Web Speech API`
-<br/>🔗 [Live demo](https://croppilot.onrender.com) · 🏆 *AgroTech Hackathon 2026*
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/dharanishvijayakumar7-lgtm/SAFEHER-women-safety-alert-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharanishvijayakumar7-lgtm&repo=SAFEHER-women-safety-alert-system&theme=tokyonight&hide_border=true&border_radius=12" alt="SAFEHER"/>
-</a>
-
-**🚺 SAFEHER** — a mobile safety companion with one-tap SOS, live GPS location sharing and instant alerts to trusted contacts.
-<br/>`Flutter` `Firebase` `GPS` `Android`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/dharanishvijayakumar7-lgtm/carbonintelligence">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharanishvijayakumar7-lgtm&repo=carbonintelligence&theme=tokyonight&hide_border=true&border_radius=12" alt="carbonintelligence"/>
-</a>
-
-**🌍 Carbon Intelligence** — an AI-driven carbon-footprint tracker for organizations with zero budget: ingests bills, estimates emissions, forecasts trends and answers questions through a chatbot.
-<br/>`FastAPI` `DuckDB` `Streamlit` `LangChain` `scikit-learn`
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/dharanishvijayakumar7-lgtm/UPI_transaction_fruad_detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dharanishvijayakumar7-lgtm&repo=UPI_transaction_fruad_detection&theme=tokyonight&hide_border=true&border_radius=12" alt="UPI fraud detection"/>
-</a>
-
-**💳 UPI Fraud Detection** — overnight-hackathon project exploring how to flag suspicious UPI transactions with Python.
-<br/>`Python` `Data Analysis`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>🔧 <b>More experiments</b></summary>
-<br/>
-
-- 🚗 **[CameraCar](https://github.com/dharanishvijayakumar7-lgtm/CameraCar)** — ESP32 camera car (C++), a hands-on dive into embedded hardware.
-
-</details>
-
-<br/>
-
-
 <!-- ═══════════════ NOW ═══════════════ -->
 ## 🌱 Right Now
 
